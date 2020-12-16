@@ -1,26 +1,27 @@
 ## Privacy Policy
 
-Introduction
+#### Introduction
 Nuts App, and its subsidiaries* ("NutsApp" or "we", or "our" or "us"), cares about the privacy of your personal information and is committed to protecting it. This Privacy Policy explains what information we collect about you and why, what we do with that information, and how we handle that information.
 
 Information which permits us to identify you directly or indirectly is considered personal data in the European Union (EU) according to the provisions of the EU General Data Protection Regulation (GDPR). To the extent we collect and process any personal data that is covered by the EU GDPR, we will do so in accordance with the requirements of the EU GDPR. The principles of data protection not apply to anonymous information, namely information which does not relate to an identified or identifiable natural person or to personal data rendered anonymous in such a manner that the data subject is not or no longer identifiable.
 
 In general, you can visit NutsApp on the Web without telling us who you are or revealing any information about yourself. To the extent that you do provide information to NutsApp, NutsApp will never sell, rent or disclose your personally identifiable information to outside parties for their own marketing purposes without your consent. With your permission, NutsApp may send you e-mail regarding our new products, upgrades, or select third party products. We do not disclose your personally identifiable information to such third parties.
 
-What type of information is collected from you?
+#### What type of information is collected from you?
 NutsApp only collects personal information which is reasonably necessary for its dealings with the individuals to whom the information relates. The types of personal information NutsApp collects will depend on the particular dealings we have with you. However, generally, we collect and hold personal information about existing and prospective customers, our third party service providers and suppliers, and employment applicants.
 
 Generally, NutsApp collects personal information directly from the individuals concerned. For instance, there are times when we may need to collect information from you through our Web Sites. This generally involves filling out forms so you can download or order a NutsApp or third party product from our Web Sites. When you download the products we require you to fill out a form with your name and email address.
 
 NutsApp may also collect personal information about individuals indirectly from third parties, such as from our business partners, from third party providers of marketing lists, and through various other methods, including:
 
-Cookies
-Referrers
-IP addresses
-System information
+- Cookies
+- Referrers
+- IP addresses
+- System information
+
 None of these methods can be used to identify, or reasonably identify, you with the exception of cookies, which can optionally store information that you may enter in forms on our Web Sites.
 
-How and why is your information used?
+#### How and why is your information used?
 You have complete control over your personal information. In general, you can visit our website without providing us with any personal information. However, there are instances where we must have your personal information in order for us to grant you access to our protected and secured sites. This information may include registration data (your name, address, email address, phone number, title, etc.), information request data and response data ("User Information"). When you receive your confirmation email or when you receive any email from the list server, you will be given instructions on how to remove yourself from the list.
 
 Use of User Information
